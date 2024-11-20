@@ -57,22 +57,22 @@ A user-friendly, persistent to-do list application built with Node.js, Express, 
 
 ## Usage
 ### Registration and Login
-Visit /register to create a new account.
-Log in at /login to manage your tasks.
+- Visit /register to create a new account.
+- Log in at /login to manage your tasks.
 
 ### Task Management
-Add new tasks.
-Edit existing tasks.
-Delete completed tasks.
+- Add new tasks.
+- Edit existing tasks.
+- Delete completed tasks.
 
 ### Logout
 Use the "Log Out" button to securely end your session.
 
 ## Technologies Used
-**Backend:** Node.js, Express.js
-**Frontend:** EJS
-**Database:** PostgreSQL
-**Authentication:** bcrypt for password hashing, express-session for session management
+- **Backend:** Node.js, Express.js
+- **Frontend:** EJS
+- **Database:** PostgreSQL
+- **Authentication:** bcrypt for password hashing, express-session for session management
 
 ## License
 This project is open-source and available under the MIT License.
